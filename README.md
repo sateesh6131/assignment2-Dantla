@@ -28,6 +28,25 @@
             * drinks
 4. From Delhi to Vijayawada take another flight and from vijayawada book a cab to Guntur
 
+[click hear to aboutme file](AboutMe.md)
+
+
+The following table describes the 4 types of food/drinks that everyone should try.<br>
+It describes the food/drink item name, location and amount of money.
+ 
+### FOOD & Drink Table
+ 
+---
+ 
+| Food/Drink Item | Location | Amount |
+|   ----------    |  -----   |   ---- | 
+| Dosa | Guntur | 55 |
+| Biryani | Hydarabad | 250 |
+| idly | Banglore | 56 |
+| Punugulu | Vijayawada ST food | 20 | 
+
+ 
+
   
 
 
