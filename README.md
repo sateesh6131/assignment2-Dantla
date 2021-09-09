@@ -45,8 +45,11 @@ It describes the food/drink item name, location and amount of money.
 | idly | Banglore | 56 |
 | Punugulu | Vijayawada ST food | 20 | 
 
+### quotes
+
+---
+
+> " If opportunity doesn't knock, build a door " .  - *A.P.J ABDUL KALAM*
  
-
-  
-
-
+> " The best way to predict the future is to invent it ". - *ABRAHAM LONCOLN*
+ 
