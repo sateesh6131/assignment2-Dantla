@@ -52,4 +52,24 @@ It describes the food/drink item name, location and amount of money.
 > " If opportunity doesn't knock, build a door " .  - *A.P.J ABDUL KALAM*
  
 > " The best way to predict the future is to invent it ". - *ABRAHAM LONCOLN*
- 
+
+#### Code fencing
+
+---
+
+> The idea is based on Legendre’s formula which finds largest power of a prime number that divides fact!. We find all prime factors of n. For every prime factor we find largest power of it that divides fact!. Finally we return minimum of all found powers. 
+
+<https://www.geeksforgeeks.org/find-maximum-power-number-divides-factorial/>
+
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+
+```
+<https://cp-algorithms.com/algebra/factorial-divisors.html>
